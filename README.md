@@ -1,5 +1,4 @@
-# LA-Bike-Share-Predictive-Model-DSC630-
-Final project for DSC630 - Predictive Analytics class in BU. 
+# LA Bike Share Predictive Model
 By exploring the bike ride share data, we will try to find answers for the below questions through some thorough exploratory data analysis and predictive modelling.
 
 _Exploratory data analysis:_
