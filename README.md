@@ -29,10 +29,12 @@ _Modeling statements:_
 
 ## Getting Started
 [(Back to top)](#table-of-contents)
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisite
 [(Back to top)](#table-of-contents)
+
 To execute this project, you will need the following applications -
 
 Python 3 (or Anaconda distribution)
@@ -51,24 +53,30 @@ Required Python libraries:
 
 ### Installation
 [(Back to top)](#table-of-contents)
+
 This particular project does not require any installation other than the required softwares mentioned above.
 
 ## Usage
 [(Back to top)](#table-of-contents)
+
 This section will be updated as the project is developed.
 
 ## Project Status
 [(Back to top)](#table-of-contents)
+
 Project is complete.
 
 ## Versioning
 [(Back to top)](#table-of-contents)
+
 Git is used for project versioning.
 
 ## Authors
 [(Back to top)](#table-of-contents)
+
 Anirban Pal
 
 ## Acknowledgements
 [(Back to top)](#table-of-contents)
+
 * Other project members were _Raghu Raman Nanduri_ and _Gangadhar Dhulipala_
